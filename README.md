@@ -1,4 +1,4 @@
-# FACT-Fully-Automatic-Codification-Task
+# FACT-Fully-Automatic-Codification-Tool
 
 FACT is a Python tool for automatic semantic coding of Property Listing Task (PLT) data. It reads an input file containing participant-generated properties for multiple concepts, embeds those properties using a multilingual transformer, groups them using a community-detection approach, evaluates coverage for each concept, and selects the best clustering solution based on a target coverage value.
 
