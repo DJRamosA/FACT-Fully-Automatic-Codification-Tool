@@ -1,6 +1,6 @@
 {
-  "standardization_time": 0.026451826095581055,
-  "embedding_time": 48.6324348449707,
-  "hyperparameter_search_time": 2296.1489939689636,
-  "total": 2344.80788064003
+  "standardization_time": 0.027512788772583008,
+  "embedding_time": 55.54166793823242,
+  "hyperparameter_search_time": 22080.303635120392,
+  "total": 22135.872815847397
 }
