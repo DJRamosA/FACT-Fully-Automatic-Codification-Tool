@@ -123,11 +123,24 @@ FACT produces the following files, all sharing the chosen OUTPUT_PREFIX:
 
     - total number of rows
 
-5. `<prefix>_overall_cluster_size_hist.png`
+5.  `<prefix>_time.json`
+    
+    A summary of the time on the:
+
+    - Standardization process
+    
+    - Embedding of the properties
+  
+    - Hyperparameter search
+    
+    - Total time of the algorithm
+
+
+6. `<prefix>_overall_cluster_size_hist.png`
 
     A histogram showing global cluster size distribution    
 
-6. `<prefix>_per_concept_top_codes.pdf`
+7. `<prefix>_per_concept_top_codes.pdf`
 
     A multi-page PDF with bar charts of the largest codes for each concept (singletons are not shown here)
 
