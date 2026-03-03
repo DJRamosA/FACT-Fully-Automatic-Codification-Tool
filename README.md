@@ -25,7 +25,7 @@ Steps to use the tool:
 2. Place the input file in an accessible path. For example: 
    
    ```
-   /content/CPN27_raw.csv
+   /data/CPN27_raw.csv
    ```
 
 3. At the top of the notebook, update the following variables:
@@ -36,9 +36,9 @@ Steps to use the tool:
     ```
     Example:
     ```
-    CSV_PATH = "/content/CPN27_raw.csv"
+    CSV_PATH = "/data/CPN27_raw.csv"
 
-    OUTPUT_PREFIX = "/content/CPN27_FACT"
+    OUTPUT_PREFIX = "/data/result/es"
     ```
 4. Run the entire FACT code cell. This executes the complete pipeline:
 
